@@ -1,0 +1,12 @@
+{
+  "name": "make-symbol",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/node-make-symbol",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
